@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NGUI/Examples/Scripts/Other/PanWithMouse.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BG/LocalData.cs" Line="122" Column="6" />
+      <File FileName="Assets/Plugins/CharacterElement.cs" Line="1" Column="1" />
+      <File FileName="../../Strong/Assets/readme_SDK.txt" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CharacterManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TEST.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TextureResource.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Editor/CreateAssetbundles.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CreateAssetbundlesMain.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CharacterInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CreateAssetBundlesAll.cs" Line="1" Column="1" />
+      <File FileName="Assets/RTColorPicker/Demo Assets/Scripts/DemoUI_CS.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BG/BGHttpRequest.cs" Line="406" Column="65" />
+      <File FileName="Assets/Scripts/BG/BGSceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BG/BGScreenMsgBoard.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BG/BGSocket.cs" Line="43" Column="25" />
+      <File FileName="Assets/Scripts/BG/BGSocketReceiveHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BG/BGTools.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BG/BGSocketNew2.cs" Line="22" Column="4" />
+      <File FileName="Assets/Scripts/BG/Base.cs" Line="1" Column="1" />
+      <File FileName="Assets/NGUI/Scripts/UI/UISprite.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/framework/data/DependencyObject.cs" Line="89" Column="28" />
+      <File FileName="Assets/Scripts/framework/data/binding/Binding.cs" Line="35" Column="40" />
+      <File FileName="Assets/Scripts/framework/utils/NumberUtil.cs" Line="68" Column="6" />
+      <File FileName="Assets/NGUI/Examples/Scripts/Other/PlayIdleAnimations.cs" Line="1" Column="1" />
+      <File FileName="Assets/NGUI/Examples/Scripts/Other/PanWithMouse.cs" Line="25" Column="35" />
+      <File FileName="Assets/NGUI/Examples/Scripts/Other/SpinWithMouse.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

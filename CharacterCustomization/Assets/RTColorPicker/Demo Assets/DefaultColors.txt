@@ -1,0 +1,6 @@
+#FFFFFF
+#000000
+#FF0000
+#00FF00
+#0000FF
+Invalid Input Example -- This will appear as black in the default colors
